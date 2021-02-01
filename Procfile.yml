@@ -2,4 +2,4 @@ update:
   - pip3 install -r requirements.txt
 
 startup:
-  - (background) python3 ./app.py
+  - (web) python3 ./app.py
